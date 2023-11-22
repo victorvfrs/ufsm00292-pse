@@ -1,5 +1,5 @@
 /**
- * \file TAREFA 3
+ * \file
  *
  * \brief Exemplos diversos de tarefas e funcionalidades de um sistema operacional multitarefas.
  *
@@ -38,7 +38,6 @@ void tarefa_E(void);
 void tarefa_F(void);
 void tarefa_G(void);
 void tarefa_H(void);
-void tarefa_I(void);
 
 /*
  * Configuracao dos tamanhos das pilhas
